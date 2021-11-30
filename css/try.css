@@ -827,6 +827,7 @@ a {
     font-weight: bold;
     transition: var(--main-transition);
     border-radius: 4px;
+    border: 1px solid;
 }
 .blog .container .box a:hover {
     background-color:transparent;
